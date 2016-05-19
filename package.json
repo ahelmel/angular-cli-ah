@@ -1,0 +1,24 @@
+{
+  "name": "angular-cli-ah",
+  "description": "???",
+  "version": "0.0.1",
+  "repository": "???",
+  "engines": {
+    "node": ">= 4.1.0"
+  },
+  "author": "Arthur Helmel <arthur.helmel@1und1.de>",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "ember-addon": {
+    "configPath": "tests/dummy/config"
+  },
+  "dependencies": {
+    "fs-extra": "^0.24.0",
+    "inquirer": "^0.10.1",
+    "rsvp": "^3.0.14"
+  }
+}
